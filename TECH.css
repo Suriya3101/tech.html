@@ -1,0 +1,28 @@
+body{
+    /* background-color: rgb(70, 70, 70); */
+    text-align: center;
+}
+h2{
+    color: white;
+}
+h4{
+    color: white;
+}
+p
+{
+    color: white;
+}
+h1{
+color:rgb(255, 93, 93);
+}
+img{
+    border: 20px groove rgb(90, 103, 109);
+    padding: 20px;
+    background-color: black;
+}
+p{
+    font-size: xx-large;
+    font-style: oblique;
+    border: 25px groove rgb(148, 100, 37);
+    padding: 20px;
+}
